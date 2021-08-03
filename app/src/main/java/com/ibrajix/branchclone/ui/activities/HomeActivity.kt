@@ -9,6 +9,7 @@ import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
 import com.ibrajix.branchclone.R
 import com.ibrajix.branchclone.databinding.ActivityHomeBinding
+import com.ibrajix.branchclone.ui.utils.Utility.transparentStatusBar
 import com.ibrajix.branchclone.utils.Utility.viewBinding
 
 class HomeActivity : AppCompatActivity() {
@@ -19,6 +20,8 @@ class HomeActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        transparentStatusBar()
         setContentView(binding.root)
 
         initView()
