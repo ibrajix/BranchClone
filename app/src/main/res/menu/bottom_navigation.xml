@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_caps"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/walletFragment"
+        android:icon="@drawable/ic_wallet"
+        android:title="@string/wallet_caps"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/loanFragment"
+        android:icon="@drawable/ic_loans"
+        android:title="@string/loans_caps"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/investFragment"
+        android:icon="@drawable/ic_invest"
+        android:title="@string/invest_caps"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/inviteFragment"
+        android:icon="@drawable/ic_invite"
+        android:title="@string/invite_caps"
+        android:menuCategory="secondary" />
+
+</menu>

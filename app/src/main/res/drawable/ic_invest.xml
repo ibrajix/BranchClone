@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+  <group>
+    <clip-path
+        android:pathData="M0,0h36v36h-36z"/>
+    <path
+        android:pathData="M4.5,16.5C4.116,16.5 3.732,16.353 3.4395,16.0605C2.853,15.474 2.853,14.526 3.4395,13.9395L13.7985,3.5805C14.385,2.994 15.333,2.994 15.9195,3.5805C16.506,4.167 16.506,5.115 15.9195,5.7015L5.5605,16.0605C5.268,16.353 4.884,16.5 4.5,16.5Z"
+        android:fillColor="#BFBEBE"/>
+    <path
+        android:pathData="M16.875,9C16.5825,9 16.2945,8.886 16.08,8.67L10.83,3.42C10.5075,3.099 10.4115,2.6145 10.5855,2.1945C10.7595,1.7745 11.1705,1.5 11.625,1.5H16.875C17.496,1.5 18,2.004 18,2.625V7.875C18,8.3295 17.7255,8.7405 17.3055,8.9145C17.166,8.9715 17.0205,9 16.875,9Z"
+        android:fillColor="#BFBEBE"/>
+    <path
+        android:pathData="M10.5,22.875V31.5H1.5V22.875C1.5,21.84 2.34,21 3.375,21H8.625C9.66,21 10.5,21.84 10.5,22.875Z"
+        android:fillColor="#BFBEBE"/>
+    <path
+        android:pathData="M22.5,16.875V31.5H13.5V16.875C13.5,15.84 14.34,15 15.375,15H20.625C21.66,15 22.5,15.84 22.5,16.875Z"
+        android:fillColor="#BFBEBE"/>
+    <path
+        android:pathData="M34.5,10.875V31.5H25.5V10.875C25.5,9.84 26.34,9 27.375,9H32.625C33.66,9 34.5,9.84 34.5,10.875Z"
+        android:fillColor="#BFBEBE"/>
+    <path
+        android:pathData="M34.875,36H1.125C0.504,36 0,35.496 0,34.875C0,34.254 0.504,33.75 1.125,33.75H34.875C35.496,33.75 36,34.254 36,34.875C36,35.496 35.496,36 34.875,36Z"
+        android:fillColor="#BFBEBE"/>
+  </group>
+</vector>
