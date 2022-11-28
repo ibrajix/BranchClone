@@ -1,6 +1,8 @@
 # Branch App Clone
 ## :raised_hand_with_fingers_splayed: This is a clone of Branch App (https://branch.com.ng), highlighting major destinations of the app.
 
+I tried to show my UI implementation skill here.
+
 Below are screenshots...
 
 <p float="left">
@@ -15,7 +17,7 @@ Hopefully this will serve as a starter guide for your loan app project :wink:
 </p>
 
 ## DOWNLOAD
-https://bit.ly/3CcuPc9
+<a href="https://github.com/ibrajix/BranchClone/releases/download/v1.0/app-debug.apk">Click to Download</a>
 
 Its perfectly safe to download. 😙
 
